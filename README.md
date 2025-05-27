@@ -85,12 +85,3 @@ Feel free to fork this repository, create a branch, and open a pull request.
 ---
 
 *Made with ❤️ by Mayank Tripathi*
-
-
-
----
-
-Just copy this entire text and paste it into a new `README.md` file in your GitHub repo root.
-
-If you want me to help add badges (e.g., build status, Python version) or screenshots, just ask!
-
